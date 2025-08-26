@@ -10,4 +10,4 @@ Features
 
 🔹 Message Storage – Chats are stored and can be retrieved anytime.
 
-🔹 Responsive Design – Works smoothly on desktop and mobile devices.
+🔹 Responsive Design – Works smoothly on desktop.
